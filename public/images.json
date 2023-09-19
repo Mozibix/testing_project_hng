@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "url": "/next.svg",
+    "tags": "nature"
+  },
+  {
+    "id": 2,
+    "url": "/vercel.svg",
+    "tags": "animals"
+  }
+]
